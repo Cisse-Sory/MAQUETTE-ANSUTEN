@@ -1,0 +1,29 @@
+.nav{height: 50px;
+     background-color:#F8B72B;
+    }
+/* .logo-ansuten{
+    width: 100px;height: 100px;
+} */
+#onglet{
+    color: #156c3c;
+    font-weight:600;
+    font-size: 15px;
+}
+
+.main-navigation,
+.main-navigation .navbar,
+.main-navigation .container {
+    padding: 0 !important;
+}
+
+.slide1, .slide2, .slide3{
+    width: 1115px;height: 400px;
+}
+
+#img-actu{
+    height: 190px; width: 500px;
+}
+
+.img-mission{
+    height: 300px;
+}
