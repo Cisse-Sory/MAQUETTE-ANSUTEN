@@ -27,3 +27,8 @@
 .img-mission{
     height: 300px;
 }
+
+hr{
+    height: 5px; width: 70px;
+    background-color: #024f24;
+}
